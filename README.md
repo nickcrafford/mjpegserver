@@ -1,0 +1,4 @@
+mjpegserver
+===========
+
+Simple MJPEG server
